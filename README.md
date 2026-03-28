@@ -30,7 +30,7 @@ Olist is a large marketplace with a diverse customer base. Without segmentation,
 - **Champions Segment:** Represents ~15% of the customer base but contributes significantly to the total revenue with an **Average Order Value (AOV) of $370+**.
 - **At-Risk Segment:** Holds over **$6M in historical revenue**, representing a massive opportunity for re-engagement campaigns.
 
-
+![RFM Analysis Results](Customer_count_and_total_revenue_by_segment.png)
 
 ## 💡 Strategic Recommendations
 - **Loyalty:** Implement VIP programs for "Champions" to maintain satisfaction.
