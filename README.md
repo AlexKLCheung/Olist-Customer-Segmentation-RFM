@@ -40,3 +40,5 @@ Olist is a large marketplace with a diverse customer base. Without segmentation,
 ## 📂 Repository Structure
 - `RFM_Modeling_Olist.ipynb`: Full analysis and visualization.
 - `olist.db`: Database file (if applicable/small enough) or instructions to download from Kaggle.
+
+- Data Source: Brazilian E-Commerce Public Dataset by Olist
